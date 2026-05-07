@@ -338,7 +338,7 @@ main {
 
 .avatar-box {
   background: var(--bg-gradient-onyx);
-  border-radius: 20px;
+  border-radius: 50px;
 }
 
 .info-content .name {
@@ -1913,3 +1913,4 @@ textarea.form-input::-webkit-resizer { display: none; }
 .download-btn:hover {
   background: #0284c7;
 }
+
